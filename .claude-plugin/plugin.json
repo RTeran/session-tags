@@ -1,0 +1,19 @@
+{
+  "name": "session-tags",
+  "version": "0.1.0",
+  "description": "Comment and tag Claude Code sessions, then filter them by tag and search their comments",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "RTeran"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/RTeran/session-tags#readme",
+  "repository": "https://github.com/RTeran/session-tags",
+  "keywords": [
+    "claude-code-mod",
+    "sessions",
+    "tags",
+    "comments",
+    "pane"
+  ]
+}

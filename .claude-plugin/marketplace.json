@@ -1,0 +1,16 @@
+{
+  "name": "rteran-session-tags",
+  "owner": {
+    "name": "RTeran"
+  },
+  "plugins": [
+    {
+      "name": "session-tags",
+      "source": "./",
+      "description": "Comment and tag Claude Code sessions, then filter them by tag and search their comments",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ],
+  "description": "One plugin: comment, tag and track the status of your Claude Code sessions."
+}
